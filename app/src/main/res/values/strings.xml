@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Music</string>
+
+    <!-- This string use to display the home bar-->
+    <string name="home">Home</string>
+
+    <!-- This string use to display the Now playing bar-->
+    <string name="nowPlaying">Now Playing</string>
+
+    <!-- This string use to display ChartsActivityarts bar-->
+    <string name="charts">Charts</string>
+
+    <!-- This string use to display the New Release bar-->
+    <string name="newRelease">New Release</string>
+
+    <!-- This string use to display LibraryActivityrary bar-->
+    <string name="library">Library</string>
+
+    <!-- This string use to display SearchActivityarch bar-->
+    <string name="search">Search</string>
+
+    <!-- This string use to display the Setting bar-->
+    <string name="setting">Settings</string>
+
+    <!-- This string is displayed in the Buy Activity-->
+    <string name="payment">In this Activity we can use Google Pay API for payment transaction.Google Pay API accepts details from all the debit/credit card and generates payment Gateway for transaction .</string>
+
+
+</resources>
